@@ -1,1 +1,2 @@
 Hello I am someone from feature2 branch
+Hello I am someone from main
